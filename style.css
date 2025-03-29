@@ -1,0 +1,29 @@
+h1{
+    color: purple;
+
+    margin-top: 400px;
+    margin-left: 200px;
+    margin-bottom: 5px;
+    font-size: 400px;
+    display: inline-block;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: -15px;
+}
+p{
+    color: purple;
+    margin-left: 230px;
+    margin-top: 5px;
+
+    font-size: 100px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+
+
+}
+
+  
