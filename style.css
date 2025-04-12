@@ -1,26 +1,81 @@
+
+body{
+    font-size: 45px;
+}
+
+.hero{
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+/*TOP SECTION*/
+.top-section{
+    margin: 90px 40px 30px 40px;
+
+}
+
+
 h1{
     color: purple;
-    margin-top: 150px;
-    margin-left: 60px;
-    margin-bottom: 5px;
-    font-size: 150px;
+    font-size: 5rem;
     display: inline-block;
     font-family: "Inter", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 700;
+    font-weight: 600;
     font-style: normal;
-    letter-spacing: -9px;
+    letter-spacing: -5px;
+    margin: 0px;
 }
 p{
     color: purple;
-    margin-left: 80px;
-    margin-top: 2px;
-    font-size: 45px;
+    font-size: 2rem;
     font-family: "Inter", sans-serif;
-    font-optical-sizing: auto;
     font-weight: 300;
     font-style: normal;
+    margin: 0px;
 
 }
 
-  
+/*Link Part*/
+.links{
+    margin-top: 40px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.heightNwidthForLinks{
+    height: 40px;
+    width: 40px;
+}
+
+
+/*BOTTOM SECTION*/
+
+.bottom-section{
+    margin: 50px 40px 90px 40px;
+}
+
+.blocks{
+    height: 50px;
+    justify-content: space-evenly;
+    display: block;
+}
+
+#b1{
+    background-color: rgb(249, 140, 249);    
+}
+#b2{
+    background-color: rgb(219, 101, 219);
+    margin-top: 20px;
+
+}
+#b3{
+    background-color: rgb(167, 42, 167);
+    margin-top: 20px;
+
+}
+#b4{
+    background-color: rgb(111, 15, 111);
+    margin-top: 20px;
+}      
